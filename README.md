@@ -5,6 +5,7 @@
 
 5)
 kubectl get service
+
 NAME                          TYPE        CLUSTER-IP      EXTERNAL-IP   PORT(S)          AGE
 
 springboot-k8s-svc            NodePort    10.98.212.91    <none>        8080:32426/TCP   2m3s
